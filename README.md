@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Silva5525
+- 👋 Hi, I’m @Silva#5525
 - 👀 I’m interested in nearly everything
 - 🌱 I’m currently learning at the 42 Heilbronn C & C++
 - 💞️ I’m looking to collaborate on Fun projects
