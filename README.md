@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Silva5525
 - 👀 I’m interested in nearly everything
-- 🌱 I’m currently learning at the 41 Heilbronn C & C++
+- 🌱 I’m currently learning at the 42 Heilbronn C & C++
 - 💞️ I’m looking to collaborate on Fun projects
 - 📫 How to reach me  Discord.. same name there Silva#5525 :)
 - 😄 Pronouns: dont care.. just be nice xD
 - ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡                 Fun fact:                    ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
-- Water H2O ... Hydrogen 1 Atom, Oxygen 8.. so 2 + 8 = 10.. {funny 1 & 0 are 2 parts and a bit has 8 Numbers}
+- Water H2O ... Hydrogen 1 Atom *2H, Oxygen 8 *1H.. so 2 + 8 = 10.. {funny 1 & 0 are the 2 parts of our binary system and a bit has 8 Numbers}
 - 0 celsius freezing point on Sea level +4 celsius the maximum density of water (Water expands under 4 c again.. like a few other elements)
 - -273,15 °C absolute minimum temperature which is 0 in Kelvin.. 2.728 Kelvin Kelvin has the cosmic background radiation today since the big bang..
 - 27.32 Days travels the Moon around our planet once... 250 and 285 days between ovulation and childbirth for a Human, which is something around 10 times Moon around planet.
