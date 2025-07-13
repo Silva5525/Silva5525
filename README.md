@@ -14,6 +14,7 @@
 - 1 / 273.15 gas expands when it is heated from 0 C to 1 C
 - π(1+p)=4  or  p=(4/π-1)  or  π=4/(1+p)=4/1,2732=3,14169 or 4 / π = 1.27323954474 or p ≈ 0,273 Plichta-Konstante
 - 2,724 km earth diameter the moon 3,474 km.. 12,724 / 3,474 = 3.66263672999 or 3,474 / 12,724 = 0.2730273498899717
+  
   ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ this infos where at least a Fun fact for me 🤯 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 <!---
 Silva5525/Silva5525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
